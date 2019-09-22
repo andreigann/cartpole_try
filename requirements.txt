@@ -4,3 +4,4 @@ keras
 matplotlib
 jupyter
 scikit-learn
+lightgbm
